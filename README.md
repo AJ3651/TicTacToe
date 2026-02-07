@@ -1,4 +1,4 @@
-# Rock Paper Scissors Demo
+# Tic Tac Toe Demo
 
 This is a web-sockets with socket.io two player game of Tic Tac Toe  with socket.io.
 
