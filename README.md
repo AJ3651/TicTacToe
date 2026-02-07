@@ -1,6 +1,6 @@
 # Rock Paper Scissors Demo
 
-This is a web-sockets with socket.io two player game of Rock Paper Scissors using Rooms with socket.io.
+This is a web-sockets with socket.io two player game of Tic Tac Toe  with socket.io.
 
 
 ## To test locally:
